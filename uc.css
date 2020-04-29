@@ -1,0 +1,24 @@
+body {
+    background-color: #111200;
+    justify-content: center;
+    text-align: center;
+}
+
+.sign {
+    margin: auto;
+    display: flex;
+}
+
+p {
+    font: "Monaco";
+    color: white;
+}
+
+.p1 {
+    font-size: x-large;
+}
+
+#sourceOfArt {
+    font-size: medium;
+    font-style: italic;
+}
